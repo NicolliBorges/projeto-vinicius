@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/livrariav1Versao4/livraria/livraria.iml" filepath="$PROJECT_DIR$/livrariav1Versao4/livraria/livraria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/livrariav1Versao5.iml" filepath="$PROJECT_DIR$/.idea/livrariav1Versao5.iml" />
+    </modules>
+  </component>
+</project>
